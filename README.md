@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Dark Iris
+# Hi there! 👋 I'm Marlin
 
 🎓 B.Tech Computer Science & Engineering Student
 🌱 Currently learning AI, Machine Learning & Full Stack Development
